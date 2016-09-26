@@ -1,4 +1,5 @@
 [gerrit]
 host=review.openstack.org
 port=29418
-project=openstack/oslo.concurrency.git
+project=openstack/deb-oslo.concurrency.git
+defaultbranch=debian/newton
